@@ -11,15 +11,15 @@ After completing the Archipelago setup guide, follow the Manual for Archipelago 
 You will also need the Universal Tracker for Archipelago: https://discord.com/channels/731205301247803413/1367270230635839539
 
 # Global Valorant Info
-__Items :__ Every Weapons (18 - Knife included / Classic excluded), Every Agents (27)
+Items : Every Weapons (18 - Knife included / Classic excluded), Every Agents (27)
 
-__Starting items :__ You'll start with Classic, any other weapon (Knife included) and any agent
+Starting items : You'll start with Classic, any other weapon (Knife included) and any agent
 
-__Locations :__ Kill with every weapons (19 - Classic & Knife included), Kill with a spell with every agent (16), if no kill is possible, Assist with a spell with the remaining agents (11), Plant & Defuse the spike once (2), Win with every agent (27)
+Locations : Kill with every weapons (19 - Classic & Knife included), Kill with a spell with every agent (16), if no kill is possible, Assist with a spell with the remaining agents (11), Plant & Defuse the spike once (2), Win with every agent (27)
 
-__Traps :__ Stay sharp on traps, some are for the current round and some for the next round (11 different ones at the moment for a total of 28 Traps)
+Traps : Stay sharp on traps, some are for the current round and some for the next round (11 different ones at the moment for a total of 28 Traps)
 
-__Goal :__ Currently need to win with every agent up to Waylay (The requirement is only to have those but you still have to win with them)
+Goal : Currently need to win with every agent up to Waylay (The requirement is only to have those but you still have to win with them)
 
 Some may think PvP games aren't good to be AP, i think it's true only if you go ranked and throw every game you're in, now if you don't want to go in Swift, it's your choice, but it's the recommended game mode.
 This Manual is meant to be played by Experienced Valorant players or Veterans, Beware of the difficulty if you are new !
