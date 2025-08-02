@@ -27,3 +27,24 @@ It can be played solo or coop, but beware, it's harder to win when you are 5 wit
 Quick advice, if you have only one agent, don't forget to fast pick
 
 There is currently no settings, because i'm not English and i struggle really hard to make those, if someone have the  knowledge to do it, it'll be delightful to shatter it myself to learn
+
+
+
+# Informations Valorant #FR
+
+Items : Chaque armes (18 - Couteau inclus / Classic exclus), Chaque Agents (27)
+
+Items de départ : Vous commencerez avec le Classic, n'importe quelle autre Arme (Couteau inclus) et n'importe quel Agent
+
+Checks à envoyer : Tuer avec chaque Armes (19 - Classic & Couteau inclus), Tuer avec un Spell de chaque Agents (16), s'il n'est pas possible de tuer de cette manière, Faire une Assist avec un Spell avec les Agents restants (11), Poser & Defuse le spike (2), Gagner avec chaque Agents (27)
+
+Pièges : Restez à l'affut des pièges, certains sont pour le Round actuel, d'autres pour le Round suivant (11 pièges different actuellement pour un total de 28 Pièges)
+
+But : Il est nécessaire de gagner avec chaque Agents, comptant le dernier sortis : Waylay (Vous aurez la capacité de valider le Goal une fois tous les Agents débloqués, mais gagnez d'abord avec tous !)
+
+Certains pensent que les jeux PvP ne sont pas bons pour être des Jeux Archipelago, je pense que c'est vrai seulement dans le cadre où vous allez en classé et que vous gâcher chaque parties dans lesquelles vous vous trouver. Si vous n'avez pas envie d'aller en Vélocité, libre à vous, cependant il est recommandé de jouer dans ce mode de jeu.
+Ce Manuel est prévu pour être joué par des joueurs expérimentés ou vétérans, attention à la difficulté si vous êtes nouveau !
+Il peut être joué en solo ou en coopération, cependant, faites attention, il est plus dure de gagner quand vous êtes 5 et n'avez le droit d'utiliser que le Classic et l'Operator.
+Petit conseil, hésitez pas à choisir rapidement vos Agents en phase de selection
+
+Il n'y a actuellement pas de paramètres dans le yaml car je n'ai pas le niveau nécessaire pour en créer un, cependant, j'essaierais d'en créer un en temps et en heure.
